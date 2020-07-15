@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "598862012396",
+    "firebase_url": "https://earn-paytm-cash-81f04.firebaseio.com",
+    "project_id": "earn-paytm-cash-81f04",
+    "storage_bucket": "earn-paytm-cash-81f04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598862012396:android:c6ae27a05ecc4883a0aac9",
+        "android_client_info": {
+          "package_name": "com.fikkarnot.earnpaytmcash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598862012396-a2j98ckq5bn6855p7esuerisolk7rosj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fikkarnot.earnpaytmcash",
+            "certificate_hash": "435d476ae00164d2aea1711584f42bc79f91d7f0"
+          }
+        },
+        {
+          "client_id": "598862012396-8u78ulf478gt4uvce9putodph42804js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB4QUDMMnZBUi6RZaZJMV7Ldr1FyoGq2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598862012396-8u78ulf478gt4uvce9putodph42804js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Earn Paytm Cash</string>
+    <string name="buy_coins">Redeem to your paytm wallet</string>
+    <string name="earn_coins_by_watching_video">Earn Coins by watching video</string>
+    <string name="earned_coins_0">Earned Coins : 0</string>
+    <string name="claim_daily_bonus">Claim Daily Bonus</string>
+    <string name="share_app_to_your_friends">Share app to your Friends</string>
+    <string name="please_rate_our_app">Please Rate Our App</string>
+    <string name="total_coins">Total Coins:</string>
+    <string name="content">content</string>
+</resources>
